@@ -1,6 +1,17 @@
 import streamlit as st
 
 from pathlib import Path
+import pandas as pd
+import streamlit as st
+from datetime import datetime
+
+import json
+
+import logging
+from datetime import datetime, timedelta
+from typing import Dict, List, Any, Optional
+from pathlib import Path
+import numpy as np
 
 st.sidebar.markdown('Dessenvolvido por [Brayan Maurico Rodríguez](https://sites.google.com/view/brayanmauricio)')
 
@@ -22,16 +33,6 @@ Dash interativo, armazenado em  [GitHub](https://github.com/bramau9010)
 )
 
 
-from pathlib import Path
-import pandas as pd
-import streamlit as st
-from datetime import datetime
-
-import json
-
-import logging
-from datetime import datetime, timedelta
-from typing import Dict, List, Any, Optional
 
 def leitura_dados():
     if not 'dados' in st.session_state:
