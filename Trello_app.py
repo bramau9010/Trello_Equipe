@@ -39,11 +39,6 @@ Dash interativo, armazenado em  [GitHub](https://github.com/bramau9010)
 def leitura_dados():
     if not 'dados' in st.session_state:
 
-        '''
-        Esta primeirra parte carrega o histórico de atingimento de metas, ele procura na mpasta caminho, a qual deve ser atualizada a cada
-        fechamento de mês, os arquivos que terminam com 'V5 - ajuste das dinamicas.xlsx' ou 'V5 - ajuste das dinamicas.xlsm'. Ajustar para que isto siga sendo assim
-
-        '''
 
 
 
