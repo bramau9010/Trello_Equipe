@@ -16,7 +16,7 @@ if not (TRELLO_KEY and TRELLO_TOKEN and BOARD_ID):
     raise SystemExit("ERRO: faltam variáveis de ambiente (TRELLO_KEY, TRELLO_TOKEN, BOARD_ID)")
 
 REPO_DIR = Path('.').resolve()
-JSON_FILE = REPO_DIR / "trello_board.json"
+JSON_FILE = REPO_DIR / "trello.json"
 
 def get_board():
     url = f"https://api.trello.com/1/boards/{BOARD_ID}"
