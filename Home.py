@@ -10,9 +10,8 @@ st.markdown("---")
 
 st.markdown(
     """
-    Este dashboard foi criado para ajudar você a visualizar e analisar a produtividade da sua equipe 
-    com base nos dados do Trello. Ele oferece uma visão clara do status das tarefas, 
-    do tempo estimado de trabalho e da alocação de cada membro.
+    Este dash, foi criado com a intenção de compartilhar com todos os membros da equipe a alocação de tarefas e estimativas de tempos para relizarlas, ajudando assim,
+    no controle, monitoramento e otimização do tempo dos colaboradores.
     """
 )
 
