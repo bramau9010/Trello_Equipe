@@ -21,11 +21,15 @@ JSON_FILE = REPO_DIR / "trello.json"
 def get_board():
     url = f"https://api.trello.com/1/boards/{BOARD_ID}"
     params = {
-        "key": TRELLO_KEY,
-        "token": TRELLO_TOKEN,
+        "key": API_KEY,
+        "token": API_TOKEN,
         "lists": "all",
         "cards": "all",
-        "members": "all"
+        "card_fields": "all",
+        "fields": "all",
+        "members": "all",
+        "labels": "all",       # <-- add this
+        "label_fields": "all"  # <-- optional, ensures full label details
     }
     r = requests.get(url, params=params)
     if r.status_code != 200:
