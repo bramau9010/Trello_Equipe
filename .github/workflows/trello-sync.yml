@@ -1,0 +1,38 @@
+name: Trello → GitHub Sync
+
+# Gatilhos: agendado e manual
+on:
+  schedule:
+    - cron: '0 11 * * *'  # exemplo: todo dia às 08:00 BRT (UTC-3) -> 11:00 UTC
+  workflow_dispatch:
+
+# Permissão necessária para gravar no repositório
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Trello sync
+        env:
+          TRELLO_KEY: ${{ secrets.TRELLO_KEY }}
+          TRELLO_TOKEN: ${{ secrets.TRELLO_TOKEN }}
+          BOARD_ID: ${{ secrets.BOARD_ID }}
+          # opcional: branch (padrão 'main')
+          GITHUB_BRANCH: ${{ github.ref_name || 'main' }}
+        run: python trello_update.py
