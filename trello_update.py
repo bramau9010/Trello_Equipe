@@ -21,8 +21,8 @@ JSON_FILE = REPO_DIR / "trello.json"
 def get_board():
     url = f"https://api.trello.com/1/boards/{BOARD_ID}"
     params = {
-        "key": API_KEY,
-        "token": API_TOKEN,
+        "key": TRELLO_KEY,
+        "token": TRELLO_TOKEN,
         "lists": "all",
         "cards": "all",
         "card_fields": "all",
