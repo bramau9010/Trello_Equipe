@@ -36,7 +36,6 @@ def main():
     # Coluna "Atrasada"
     condicao_a = (df['Data_Conclusao'].isna()) & (df['Data_Entrega'].notna()) & (df['Data_Entrega']< hoje)
     condicao_b = (df['Status'] != "CONCLUÍDO") & (df['Data_Entrega'] > df['Data_Conclusao'])
-    st.write(list(df['Status'].unique()))
     df['Atrasada'] = np.where(condicao_b | condicao_a, True, False)
     # convert   df['Atrasada'].value_counts()  to dataframe 
     
@@ -49,7 +48,7 @@ def main():
     df['Tempo_Estimado_Horas'] = df['Tempo_Estimado_Min'] / 60
 
 
-    st.title("ߓꠒelatório de Produtividade da Equipe")
+    st.title("Relatório de Produtividade da Equipe")
     st.markdown("Use esta ferramenta para analisar a produtividade da equipe com base nos dados de tarefas.")
 
     
