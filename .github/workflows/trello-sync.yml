@@ -32,7 +32,7 @@ jobs:
         env:
           TRELLO_KEY: ${{ secrets.TRELLO_KEY }}
           TRELLO_TOKEN: ${{ secrets.TRELLO_TOKEN }}
-          BOARD_ID: ${{ secrets.BOARD_ID }}
+          BOARD_ID: ${{ vars.BOARD_ID }}
           # opcional: branch (padrão 'main')
           GITHUB_BRANCH: ${{ github.ref_name || 'main' }}
         run: python trello_update.py
