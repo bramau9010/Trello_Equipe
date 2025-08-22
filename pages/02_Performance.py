@@ -174,12 +174,14 @@ def tarefas_do_dia(df):
                 'Tarefa',
                 'Status',
                 'Data_Entrega',
-                'Tempo_Estimado_Horas'
+                'Tempo_Estimado_Horas',
+                'Etiquetas'
             ]].rename(columns={
                 'Tarefa': 'Tarefa',
                 'Status': 'Status',
                 'Data_Entrega': 'Data Limite',
-                'Tempo_Estimado_Horas': 'Horas Estimadas'
+                'Tempo_Estimado_Horas': 'Horas Estimadas',
+                'Etiquetas': 'Etiqueta'
             })
 
             # Formata a coluna de data para melhor visualização
