@@ -11,6 +11,7 @@ leitura_dados()
 
 
 
+
 def main():
     """
     Função principal que constrói a aplicação Streamlit.

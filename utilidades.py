@@ -210,6 +210,7 @@ def leitura_dados():
         
         # 2. Chamar o método principal para construir o DataFrame
         df_mestre = builder.build_master_dataframe()
+        df_mestre = df_mestre[df_mestre['Membro']!='NÃO']
         
 
         # 3. Exibir resultados para verificação
