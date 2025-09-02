@@ -25,7 +25,11 @@ def get_board():
         "token": TRELLO_TOKEN,
         "lists": "all",
         "cards": "all",
-        "members": "all"
+        "card_fields": "all",
+        "fields": "all",
+        "members": "all",
+        "labels": "all",       # <-- add this
+        "label_fields": "all"  # <-- optional, ensures full label details
     }
     r = requests.get(url, params=params)
     if r.status_code != 200:
