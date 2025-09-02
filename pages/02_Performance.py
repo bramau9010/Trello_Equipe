@@ -15,7 +15,7 @@ leitura_dados()
 
 
 
-def main():
+def resumo_historico():
     """
     Função principal que constrói a aplicação Streamlit.
     """
@@ -274,7 +274,7 @@ def main():
     pagina_selecionada = st.sidebar.radio("Selecione a página", ["Resumo Histórico", "Tarefas do Dia"])
     
     if pagina_selecionada == "Resumo Histórico":
-        resumo_historico(df)
+        resumo_historico()
     elif pagina_selecionada == "Tarefas do Dia":
         tarefas_do_dia(df)
 
