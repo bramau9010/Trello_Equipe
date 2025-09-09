@@ -15,12 +15,15 @@ leitura_dados()
 
 
 
-def main():
+def resumo_historico():
     """
     Função principal que constrói a aplicação Streamlit.
     """
         
     df=st.session_state['dados']['df_trello']
+
+
+
 
 
     hoje = pd.Timestamp.now(tz='America/Sao_Paulo').normalize()
@@ -260,7 +263,7 @@ def main():
 
     
     
-    st.write(df['Tempo_Estimado_Horas'].value_counts())
+    
     # Se o DataFrame estiver vazio, exibe uma mensagem de erro e interrompe a execução
     if df.empty:
         st.error("Não foi possível carregar os dados do Trello. Verifique o arquivo JSON.")
@@ -274,7 +277,7 @@ def main():
     pagina_selecionada = st.sidebar.radio("Selecione a página", ["Resumo Histórico", "Tarefas do Dia"])
     
     if pagina_selecionada == "Resumo Histórico":
-        resumo_historico(df)
+        resumo_historico()
     elif pagina_selecionada == "Tarefas do Dia":
         tarefas_do_dia(df)
 

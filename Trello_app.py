@@ -266,6 +266,7 @@ def main():
     """
         
     df=st.session_state['dados']['df_trello']
+    # df=[df['ID_Membro']!= 'UNASSIGNED']
 
 
     hoje = pd.Timestamp.now(tz='America/Sao_Paulo').normalize()
