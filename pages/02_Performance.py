@@ -260,8 +260,6 @@ def main():
     df['Tempo_Estimado_Min'] = pd.to_numeric(df['Tempo_Estimado_Min'], errors='coerce')
     df['Tempo_Estimado_Horas'] = df['Tempo_Estimado_Min'] / 60
 
-
-    
     
     
     # Se o DataFrame estiver vazio, exibe uma mensagem de erro e interrompe a execução
