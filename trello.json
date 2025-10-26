@@ -266,13 +266,13 @@
     "black_light": ""
   },
   "powerUps": [],
-  "dateLastActivity": "2025-10-25T06:26:18.027Z",
+  "dateLastActivity": "2025-10-26T06:25:52.490Z",
   "dateLastView": "2025-10-24T16:40:11.319Z",
   "shortUrl": "https://trello.com/b/XTxVUMEy",
   "idTags": [],
   "datePluginDisable": null,
   "creationMethod": null,
-  "ixUpdate": "264280",
+  "ixUpdate": "264286",
   "templateGallery": null,
   "enterpriseOwned": false,
   "idBoardSource": null,
@@ -59654,134 +59654,6 @@
       "mirrorSourceNodeId": null
     },
     {
-      "id": "68d4e6b3382a3b69a1c8a5f7",
-      "address": null,
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": false,
-        "due": null,
-        "dueComplete": true,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": false
-      },
-      "checkItemStates": [],
-      "closed": false,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": true,
-      "dateClosed": null,
-      "dateLastActivity": "2025-09-25T11:46:26.412Z",
-      "dateCompleted": "2025-09-25T11:46:23.924Z",
-      "dateViewedByCreator": null,
-      "desc": "",
-      "descData": {
-        "emoji": {}
-      },
-      "due": null,
-      "dueReminder": null,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [
-        "67b2d66d4de182ce6f202e1a"
-      ],
-      "idList": "67a66808d05515aeeaf4fd7d",
-      "idMemberCreator": "5f676938d905a666e2bd03b5",
-      "idMembers": [
-        "619e31ab0f5999052dc01a9f"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 4168,
-      "idAttachmentCover": null,
-      "labels": [
-        {
-          "id": "67b2d66d4de182ce6f202e1a",
-          "idBoard": "67a665b882bc50c564e029f7",
-          "idOrganization": "67a6658467c6571ab30729d1",
-          "name": "ROTINA",
-          "nodeId": "ari:cloud:trello::label/workspace/67a6658467c6571ab30729d1/67b2d66d4de182ce6f202e1a",
-          "color": "blue",
-          "uses": 1484
-        }
-      ],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manualCoverAttachment": false,
-      "name": "Recebimento Sobre carteira",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/68d4e6b3382a3b69a1c8a5f7",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 16384,
-      "recurrenceRule": null,
-      "shortLink": "9Wzhfi4P",
-      "shortUrl": "https://trello.com/c/9Wzhfi4P",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": false,
-      "url": "https://trello.com/c/9Wzhfi4P/4168-recebimento-sobre-carteira",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
       "id": "68df6e990f1ac154c6eba160",
       "address": null,
       "badges": {
@@ -68680,122 +68552,6 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/FLC8JlW6/3577-atualizar-performance-por-estrat%C3%A9gia",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
-      "id": "68d4e6c796b6af0fac387018",
-      "address": null,
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": true,
-        "due": "2025-09-27T02:59:59.000Z",
-        "dueComplete": true,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": false
-      },
-      "checkItemStates": [],
-      "closed": false,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": true,
-      "dateClosed": null,
-      "dateLastActivity": "2025-09-26T06:25:58.296Z",
-      "dateCompleted": "2025-09-25T19:17:21.461Z",
-      "dateViewedByCreator": null,
-      "desc": "Envio de relatorio de acordos feitos com seguro contratado.\n\nRodar o código e enviar o arquivo para Thiego\n\nLink de notebook:\n\nhttps://di-pnb-dev-spark3-master0.di-pnb-h.tyoz-sbgs.cloudera.site/di-pnb-dev-spark3/cdp-proxy/zeppelin/#/notebook/2M1YDS9NG",
-      "descData": {
-        "emoji": {}
-      },
-      "due": "2025-09-27T02:59:59.000Z",
-      "dueReminder": null,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [],
-      "idList": "67a66808d05515aeeaf4fd7d",
-      "idMemberCreator": "5f676938d905a666e2bd03b5",
-      "idMembers": [
-        "619e31ab0f5999052dc01a9f"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 4169,
-      "idAttachmentCover": null,
-      "labels": [],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manualCoverAttachment": false,
-      "name": "Envio Relatorio de acordos com Seguro com Seguro",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/68d4e6c796b6af0fac387018",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 1762464.03125,
-      "recurrenceRule": null,
-      "shortLink": "TMEgbaZO",
-      "shortUrl": "https://trello.com/c/TMEgbaZO",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": false,
-      "url": "https://trello.com/c/TMEgbaZO/4169-envio-relatorio-de-acordos-com-seguro-com-seguro",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
@@ -78246,6 +78002,134 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/M4Fq27jg/1767-recebimento-sobre-carteira",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
+      "id": "68d4e6b3382a3b69a1c8a5f7",
+      "address": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": true,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": true,
+      "dateClosed": null,
+      "dateLastActivity": "2025-10-26T06:25:41.686Z",
+      "dateCompleted": "2025-09-25T11:46:23.924Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [
+        "67b2d66d4de182ce6f202e1a"
+      ],
+      "idList": "67c9400b2a5a7e5cf7f976ce",
+      "idMemberCreator": "5f676938d905a666e2bd03b5",
+      "idMembers": [
+        "619e31ab0f5999052dc01a9f"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 4168,
+      "idAttachmentCover": null,
+      "labels": [
+        {
+          "id": "67b2d66d4de182ce6f202e1a",
+          "idBoard": "67a665b882bc50c564e029f7",
+          "idOrganization": "67a6658467c6571ab30729d1",
+          "name": "ROTINA",
+          "nodeId": "ari:cloud:trello::label/workspace/67a6658467c6571ab30729d1/67b2d66d4de182ce6f202e1a",
+          "color": "blue",
+          "uses": 1484
+        }
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Recebimento Sobre carteira",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/68d4e6b3382a3b69a1c8a5f7",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 16384,
+      "recurrenceRule": null,
+      "shortLink": "9Wzhfi4P",
+      "shortUrl": "https://trello.com/c/9Wzhfi4P",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/9Wzhfi4P/4168-recebimento-sobre-carteira",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
@@ -252149,6 +252033,122 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/qHj0yPBj/2401-enviar-pagamentos-protesto",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
+      "id": "68d4e6c796b6af0fac387018",
+      "address": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": "2025-09-27T02:59:59.000Z",
+        "dueComplete": true,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": true,
+      "dateClosed": null,
+      "dateLastActivity": "2025-10-26T06:25:52.490Z",
+      "dateCompleted": "2025-09-25T19:17:21.461Z",
+      "dateViewedByCreator": null,
+      "desc": "Envio de relatorio de acordos feitos com seguro contratado.\n\nRodar o código e enviar o arquivo para Thiego\n\nLink de notebook:\n\nhttps://di-pnb-dev-spark3-master0.di-pnb-h.tyoz-sbgs.cloudera.site/di-pnb-dev-spark3/cdp-proxy/zeppelin/#/notebook/2M1YDS9NG",
+      "descData": {
+        "emoji": {}
+      },
+      "due": "2025-09-27T02:59:59.000Z",
+      "dueReminder": null,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67c9400b2a5a7e5cf7f976ce",
+      "idMemberCreator": "5f676938d905a666e2bd03b5",
+      "idMembers": [
+        "619e31ab0f5999052dc01a9f"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 4169,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Envio Relatorio de acordos com Seguro com Seguro",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/68d4e6c796b6af0fac387018",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 15482896,
+      "recurrenceRule": null,
+      "shortLink": "TMEgbaZO",
+      "shortUrl": "https://trello.com/c/TMEgbaZO",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/TMEgbaZO/4169-envio-relatorio-de-acordos-com-seguro-com-seguro",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
@@ -524998,6 +524998,13 @@
   ],
   "memberships": [
     {
+      "id": "67a66808d6ff9c9e5c6e002b",
+      "idMember": "619e31ab0f5999052dc01a9f",
+      "memberType": "normal",
+      "unconfirmed": false,
+      "deactivated": false
+    },
+    {
       "id": "67a665b882bc50c564e02a1e",
       "idMember": "66be015d16ec881bfcb4df1c",
       "memberType": "admin",
@@ -525028,13 +525035,6 @@
     {
       "id": "688a1041faae5553457499bd",
       "idMember": "688a09cff106867765efa4e5",
-      "memberType": "normal",
-      "unconfirmed": false,
-      "deactivated": false
-    },
-    {
-      "id": "67a66808d6ff9c9e5c6e002b",
-      "idMember": "619e31ab0f5999052dc01a9f",
       "memberType": "normal",
       "unconfirmed": false,
       "deactivated": false
