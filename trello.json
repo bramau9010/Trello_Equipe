@@ -266,13 +266,13 @@
     "black_light": ""
   },
   "powerUps": [],
-  "dateLastActivity": "2025-10-31T06:52:06.026Z",
+  "dateLastActivity": "2025-11-02T06:25:55.955Z",
   "dateLastView": "2025-10-31T06:52:06.177Z",
   "shortUrl": "https://trello.com/b/XTxVUMEy",
   "idTags": [],
   "datePluginDisable": null,
   "creationMethod": null,
-  "ixUpdate": "264552",
+  "ixUpdate": "264560",
   "templateGallery": null,
   "enterpriseOwned": false,
   "idBoardSource": null,
@@ -71784,124 +71784,6 @@
       "mirrorSourceNodeId": null
     },
     {
-      "id": "68bb450f7b59357e9ad25f86",
-      "address": null,
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 1,
-        "description": true,
-        "due": "2025-09-08T12:14:00.000Z",
-        "dueComplete": true,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": true
-      },
-      "checkItemStates": [],
-      "closed": false,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": true,
-      "dateClosed": null,
-      "dateLastActivity": "2025-10-03T06:25:57.751Z",
-      "dateCompleted": "2025-10-02T13:04:21.137Z",
-      "dateViewedByCreator": null,
-      "desc": "[https://casaspernambucanas.sharepoint.com/sites/webdrive/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2Fwebdrive%2FDocumentos%20Compartilhados%2FPernambucanas%2FT%2EI%20%2D%20Cobran%C3%A7as%2FProjeto%20Motor%20de%20Cobran%C3%A7a%2FMarco%201%20%2D%20Homologa%C3%A7%C3%A3o%2FMassa%20de%20Dados&viewid=19ed6f19%2Dc2d7%2D4673%2D9f7a%2Dc6a932b85cd3&CT=1756732523197&OR=OWA%2DNT%2DMail&CID=1d04f585%2Da899%2Da70f%2D7a3a%2D1f02c3890cb0&e=5%3Adbb6a800aa35489da550053bd694e0e7&sharingv2=true&fromShare=true&at=9&FolderCTID=0x012000FF1ED410B026104EA450A98A5B5E4839](https://casaspernambucanas.sharepoint.com/sites/webdrive/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2Fwebdrive%2FDocumentos%20Compartilhados%2FPernambucanas%2FT%2EI%20%2D%20Cobran%C3%A7as%2FProjeto%20Motor%20de%20Cobran%C3%A7a%2FMarco%201%20%2D%20Homologa%C3%A7%C3%A3o%2FMassa%20de%20Dados&viewid=19ed6f19%2Dc2d7%2D4673%2D9f7a%2Dc6a932b85cd3&CT=1756732523197&OR=OWA%2DNT%2DMail&CID=1d04f585%2Da899%2Da70f%2D7a3a%2D1f02c3890cb0&e=5%3Adbb6a800aa35489da550053bd694e0e7&sharingv2=true&fromShare=true&at=9&FolderCTID=0x012000FF1ED410B026104EA450A98A5B5E4839 \"smartCard-inline\")",
-      "descData": {
-        "emoji": {}
-      },
-      "due": "2025-09-08T12:14:00.000Z",
-      "dueReminder": 1440,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [],
-      "idList": "67a66808d05515aeeaf4fd7d",
-      "idMemberCreator": "66be015d16ec881bfcb4df1c",
-      "idMembers": [
-        "66be015d16ec881bfcb4df1c",
-        "5f676938d905a666e2bd03b5"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 3966,
-      "idAttachmentCover": null,
-      "labels": [],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manualCoverAttachment": false,
-      "name": "total valores e assesorias | BATER ACORDO VISAO HOMOL 2 CONTRA JSON DE SAIDA DO MOTOR",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/68bb450f7b59357e9ad25f86",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 2416704.938354492,
-      "recurrenceRule": null,
-      "shortLink": "2oqQl9Wn",
-      "shortUrl": "https://trello.com/c/2oqQl9Wn",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": true,
-      "url": "https://trello.com/c/2oqQl9Wn/3966-total-valores-e-assesorias-bater-acordo-visao-homol-2-contra-json-de-saida-do-motor",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "yPosition": 0.5,
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
       "id": "68998f505acf877a2f9b10d7",
       "address": null,
       "badges": {
@@ -72143,240 +72025,6 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/9S0kDLRR/3640-atualizar-performance-por-estrat%C3%A9gia",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "yPosition": 0.5,
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
-      "id": "68b9cb02a6565801a6f1145e",
-      "address": null,
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": false,
-        "due": "2025-09-05T17:23:00.000Z",
-        "dueComplete": true,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": false
-      },
-      "checkItemStates": [],
-      "closed": false,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": true,
-      "dateClosed": null,
-      "dateLastActivity": "2025-10-03T06:25:57.847Z",
-      "dateCompleted": "2025-09-10T16:53:37.117Z",
-      "dateViewedByCreator": null,
-      "desc": "",
-      "descData": {
-        "emoji": {}
-      },
-      "due": "2025-09-05T17:23:00.000Z",
-      "dueReminder": 1440,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [],
-      "idList": "67a66808d05515aeeaf4fd7d",
-      "idMemberCreator": "66be015d16ec881bfcb4df1c",
-      "idMembers": [
-        "66be015d16ec881bfcb4df1c"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 3947,
-      "idAttachmentCover": null,
-      "labels": [],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manualCoverAttachment": false,
-      "name": "Responder e-mail do Igor sobre processo Serasa",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/68b9cb02a6565801a6f1145e",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 2515008.938354492,
-      "recurrenceRule": null,
-      "shortLink": "oou2AfIl",
-      "shortUrl": "https://trello.com/c/oou2AfIl",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": false,
-      "url": "https://trello.com/c/oou2AfIl/3947-responder-e-mail-do-igor-sobre-processo-serasa",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "yPosition": 0.5,
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
-      "id": "68bad4029001be370883f474",
-      "address": null,
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": false,
-        "due": "2025-09-05T12:14:00.000Z",
-        "dueComplete": true,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": false
-      },
-      "checkItemStates": [],
-      "closed": false,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": true,
-      "dateClosed": null,
-      "dateLastActivity": "2025-10-03T06:25:57.947Z",
-      "dateCompleted": "2025-09-09T12:26:29.280Z",
-      "dateViewedByCreator": null,
-      "desc": "",
-      "descData": {
-        "emoji": {}
-      },
-      "due": "2025-09-05T12:14:00.000Z",
-      "dueReminder": 1440,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [],
-      "idList": "67a66808d05515aeeaf4fd7d",
-      "idMemberCreator": "66be015d16ec881bfcb4df1c",
-      "idMembers": [
-        "66be015d16ec881bfcb4df1c"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 3965,
-      "idAttachmentCover": null,
-      "labels": [],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manualCoverAttachment": false,
-      "name": "Formalizar por email para Danilo Camargo Da Silva e Monica a questão de ojhar situação da parcela e nao pagamento",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/68bad4029001be370883f474",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 2527296.938354492,
-      "recurrenceRule": null,
-      "shortLink": "qqsv1bV8",
-      "shortUrl": "https://trello.com/c/qqsv1bV8",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": false,
-      "url": "https://trello.com/c/qqsv1bV8/3965-formalizar-por-email-para-danilo-camargo-da-silva-e-monica-a-quest%C3%A3o-de-ojhar-situa%C3%A7%C3%A3o-da-parcela-e-nao-pagamento",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
@@ -74355,136 +74003,6 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/qym3LHVk/3699-proposta-grupos-para-motor",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "yPosition": 0.5,
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
-      "id": "68b08fbed02efaf8b7ba4478",
-      "address": null,
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": true,
-        "due": "2025-08-29T17:20:00.000Z",
-        "dueComplete": true,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": true
-      },
-      "checkItemStates": [],
-      "closed": false,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": true,
-      "dateClosed": null,
-      "dateLastActivity": "2025-10-03T06:25:58.049Z",
-      "dateCompleted": "2025-09-01T16:52:47.191Z",
-      "dateViewedByCreator": null,
-      "desc": "[https://di-pnb-dev-spark3-master0.di-pnb-h.tyoz-sbgs.cloudera.site/di-pnb-dev-spark3/cdp-proxy/zeppelin/#/notebook/2M423CJJR](https://di-pnb-dev-spark3-master0.di-pnb-h.tyoz-sbgs.cloudera.site/di-pnb-dev-spark3/cdp-proxy/zeppelin/#/notebook/2M423CJJR \"‌\")",
-      "descData": {
-        "emoji": {}
-      },
-      "due": "2025-08-29T17:20:00.000Z",
-      "dueReminder": 1440,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [
-        "6893416c23d2e622a097fd9d"
-      ],
-      "idList": "67a66808d05515aeeaf4fd7d",
-      "idMemberCreator": "66be015d16ec881bfcb4df1c",
-      "idMembers": [
-        "66be015d16ec881bfcb4df1c",
-        "5f676938d905a666e2bd03b5"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 3868,
-      "idAttachmentCover": null,
-      "labels": [
-        {
-          "id": "6893416c23d2e622a097fd9d",
-          "idBoard": "67a665b882bc50c564e029f7",
-          "idOrganization": "67a6658467c6571ab30729d1",
-          "name": "🚨 URGENTE 🚨",
-          "nodeId": "ari:cloud:trello::label/workspace/67a6658467c6571ab30729d1/6893416c23d2e622a097fd9d",
-          "color": "red",
-          "uses": 19
-        }
-      ],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manualCoverAttachment": false,
-      "name": "Validar bases enviadas pela Monica (Motor de Cobranças)",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/68b08fbed02efaf8b7ba4478",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 3498048.938354492,
-      "recurrenceRule": null,
-      "shortLink": "w442fJil",
-      "shortUrl": "https://trello.com/c/w442fJil",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": true,
-      "url": "https://trello.com/c/w442fJil/3868-validar-bases-enviadas-pela-monica-motor-de-cobran%C3%A7as",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
@@ -102757,6 +102275,124 @@
       "mirrorSourceNodeId": null
     },
     {
+      "id": "68bb450f7b59357e9ad25f86",
+      "address": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 1,
+        "description": true,
+        "due": "2025-09-08T12:14:00.000Z",
+        "dueComplete": true,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": true
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": true,
+      "dateClosed": null,
+      "dateLastActivity": "2025-11-02T06:25:55.120Z",
+      "dateCompleted": "2025-10-02T13:04:21.137Z",
+      "dateViewedByCreator": null,
+      "desc": "[https://casaspernambucanas.sharepoint.com/sites/webdrive/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2Fwebdrive%2FDocumentos%20Compartilhados%2FPernambucanas%2FT%2EI%20%2D%20Cobran%C3%A7as%2FProjeto%20Motor%20de%20Cobran%C3%A7a%2FMarco%201%20%2D%20Homologa%C3%A7%C3%A3o%2FMassa%20de%20Dados&viewid=19ed6f19%2Dc2d7%2D4673%2D9f7a%2Dc6a932b85cd3&CT=1756732523197&OR=OWA%2DNT%2DMail&CID=1d04f585%2Da899%2Da70f%2D7a3a%2D1f02c3890cb0&e=5%3Adbb6a800aa35489da550053bd694e0e7&sharingv2=true&fromShare=true&at=9&FolderCTID=0x012000FF1ED410B026104EA450A98A5B5E4839](https://casaspernambucanas.sharepoint.com/sites/webdrive/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2Fwebdrive%2FDocumentos%20Compartilhados%2FPernambucanas%2FT%2EI%20%2D%20Cobran%C3%A7as%2FProjeto%20Motor%20de%20Cobran%C3%A7a%2FMarco%201%20%2D%20Homologa%C3%A7%C3%A3o%2FMassa%20de%20Dados&viewid=19ed6f19%2Dc2d7%2D4673%2D9f7a%2Dc6a932b85cd3&CT=1756732523197&OR=OWA%2DNT%2DMail&CID=1d04f585%2Da899%2Da70f%2D7a3a%2D1f02c3890cb0&e=5%3Adbb6a800aa35489da550053bd694e0e7&sharingv2=true&fromShare=true&at=9&FolderCTID=0x012000FF1ED410B026104EA450A98A5B5E4839 \"smartCard-inline\")",
+      "descData": {
+        "emoji": {}
+      },
+      "due": "2025-09-08T12:14:00.000Z",
+      "dueReminder": 1440,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67c9400b2a5a7e5cf7f976ce",
+      "idMemberCreator": "66be015d16ec881bfcb4df1c",
+      "idMembers": [
+        "66be015d16ec881bfcb4df1c",
+        "5f676938d905a666e2bd03b5"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 3966,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "total valores e assesorias | BATER ACORDO VISAO HOMOL 2 CONTRA JSON DE SAIDA DO MOTOR",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/68bb450f7b59357e9ad25f86",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 2416704.938354492,
+      "recurrenceRule": null,
+      "shortLink": "2oqQl9Wn",
+      "shortUrl": "https://trello.com/c/2oqQl9Wn",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": true,
+      "url": "https://trello.com/c/2oqQl9Wn/3966-total-valores-e-assesorias-bater-acordo-visao-homol-2-contra-json-de-saida-do-motor",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
       "id": "68b53ecd383fe8e346fb6f7d",
       "address": null,
       "badges": {
@@ -103507,6 +103143,123 @@
       "mirrorSourceNodeId": null
     },
     {
+      "id": "68b9cb02a6565801a6f1145e",
+      "address": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": "2025-09-05T17:23:00.000Z",
+        "dueComplete": true,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": true,
+      "dateClosed": null,
+      "dateLastActivity": "2025-11-02T06:25:55.701Z",
+      "dateCompleted": "2025-09-10T16:53:37.117Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": "2025-09-05T17:23:00.000Z",
+      "dueReminder": 1440,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67c9400b2a5a7e5cf7f976ce",
+      "idMemberCreator": "66be015d16ec881bfcb4df1c",
+      "idMembers": [
+        "66be015d16ec881bfcb4df1c"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 3947,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Responder e-mail do Igor sobre processo Serasa",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/68b9cb02a6565801a6f1145e",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 2515008.938354492,
+      "recurrenceRule": null,
+      "shortLink": "oou2AfIl",
+      "shortUrl": "https://trello.com/c/oou2AfIl",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/oou2AfIl/3947-responder-e-mail-do-igor-sobre-processo-serasa",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
       "id": "68a41f39d97483bbf7d3f139",
       "address": null,
       "badges": {
@@ -103619,6 +103372,123 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/mhCPR1oi/3751-atualizar-faixa-collection-91-a-180-manualmente-at%C3%A9-implanta%C3%A7%C3%A3o",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
+      "id": "68bad4029001be370883f474",
+      "address": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": "2025-09-05T12:14:00.000Z",
+        "dueComplete": true,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": true,
+      "dateClosed": null,
+      "dateLastActivity": "2025-11-02T06:25:55.430Z",
+      "dateCompleted": "2025-09-09T12:26:29.280Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": "2025-09-05T12:14:00.000Z",
+      "dueReminder": 1440,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67c9400b2a5a7e5cf7f976ce",
+      "idMemberCreator": "66be015d16ec881bfcb4df1c",
+      "idMembers": [
+        "66be015d16ec881bfcb4df1c"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 3965,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Formalizar por email para Danilo Camargo Da Silva e Monica a questão de ojhar situação da parcela e nao pagamento",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/68bad4029001be370883f474",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 2527296.938354492,
+      "recurrenceRule": null,
+      "shortLink": "qqsv1bV8",
+      "shortUrl": "https://trello.com/c/qqsv1bV8",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/qqsv1bV8/3965-formalizar-por-email-para-danilo-camargo-da-silva-e-monica-a-quest%C3%A3o-de-ojhar-situa%C3%A7%C3%A3o-da-parcela-e-nao-pagamento",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
@@ -111113,6 +110983,136 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/oIbf8lOt/3600-subir-na-interface-a-marca%C3%A7%C3%A3o-do-ep",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
+      "id": "68b08fbed02efaf8b7ba4478",
+      "address": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": "2025-08-29T17:20:00.000Z",
+        "dueComplete": true,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": true
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": true,
+      "dateClosed": null,
+      "dateLastActivity": "2025-11-02T06:25:55.955Z",
+      "dateCompleted": "2025-09-01T16:52:47.191Z",
+      "dateViewedByCreator": null,
+      "desc": "[https://di-pnb-dev-spark3-master0.di-pnb-h.tyoz-sbgs.cloudera.site/di-pnb-dev-spark3/cdp-proxy/zeppelin/#/notebook/2M423CJJR](https://di-pnb-dev-spark3-master0.di-pnb-h.tyoz-sbgs.cloudera.site/di-pnb-dev-spark3/cdp-proxy/zeppelin/#/notebook/2M423CJJR \"‌\")",
+      "descData": {
+        "emoji": {}
+      },
+      "due": "2025-08-29T17:20:00.000Z",
+      "dueReminder": 1440,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [
+        "6893416c23d2e622a097fd9d"
+      ],
+      "idList": "67c9400b2a5a7e5cf7f976ce",
+      "idMemberCreator": "66be015d16ec881bfcb4df1c",
+      "idMembers": [
+        "66be015d16ec881bfcb4df1c",
+        "5f676938d905a666e2bd03b5"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 3868,
+      "idAttachmentCover": null,
+      "labels": [
+        {
+          "id": "6893416c23d2e622a097fd9d",
+          "idBoard": "67a665b882bc50c564e029f7",
+          "idOrganization": "67a6658467c6571ab30729d1",
+          "name": "🚨 URGENTE 🚨",
+          "nodeId": "ari:cloud:trello::label/workspace/67a6658467c6571ab30729d1/6893416c23d2e622a097fd9d",
+          "color": "red",
+          "uses": 19
+        }
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Validar bases enviadas pela Monica (Motor de Cobranças)",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/68b08fbed02efaf8b7ba4478",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 3498048.938354492,
+      "recurrenceRule": null,
+      "shortLink": "w442fJil",
+      "shortUrl": "https://trello.com/c/w442fJil",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": true,
+      "url": "https://trello.com/c/w442fJil/3868-validar-bases-enviadas-pela-monica-motor-de-cobran%C3%A7as",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
