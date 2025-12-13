@@ -565632,13 +565632,6 @@
   ],
   "memberships": [
     {
-      "id": "67a66808d6ff9c9e5c6e002b",
-      "idMember": "619e31ab0f5999052dc01a9f",
-      "memberType": "normal",
-      "unconfirmed": false,
-      "deactivated": false
-    },
-    {
       "id": "67a665b882bc50c564e02a1e",
       "idMember": "66be015d16ec881bfcb4df1c",
       "memberType": "admin",
@@ -565669,6 +565662,13 @@
     {
       "id": "688a1041faae5553457499bd",
       "idMember": "688a09cff106867765efa4e5",
+      "memberType": "normal",
+      "unconfirmed": false,
+      "deactivated": false
+    },
+    {
+      "id": "67a66808d6ff9c9e5c6e002b",
+      "idMember": "619e31ab0f5999052dc01a9f",
       "memberType": "normal",
       "unconfirmed": false,
       "deactivated": false
