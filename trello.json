@@ -269,12 +269,12 @@
     "black_light": ""
   },
   "powerUps": [],
-  "dateLastActivity": "2026-02-13T06:34:37.144Z",
+  "dateLastActivity": "2026-02-13T18:16:17.606Z",
   "dateLastView": "2026-02-03T18:19:59.329Z",
   "shortUrl": "https://trello.com/b/XTxVUMEy",
   "idTags": [],
   "datePluginDisable": null,
-  "ixUpdate": "268994",
+  "ixUpdate": "269011",
   "templateGallery": null,
   "enterpriseOwned": false,
   "idBoardSource": null,
@@ -587003,272 +587003,6 @@
       "mirrorSourceNodeId": null
     },
     {
-      "id": "698ec4d6584a0dc16fabc716",
-      "address": null,
-      "agent": {
-        "name": null,
-        "conversationId": null
-      },
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": false,
-        "due": "2026-02-14T02:59:59.000Z",
-        "dueComplete": false,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": false
-      },
-      "checkItemStates": [],
-      "closed": false,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": false,
-      "dateClosed": null,
-      "dateLastActivity": "2026-02-13T06:29:44.365Z",
-      "dateCompleted": null,
-      "dateViewedByCreator": null,
-      "desc": "",
-      "descData": {
-        "emoji": {}
-      },
-      "due": "2026-02-14T02:59:59.000Z",
-      "dueReminder": null,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [
-        "67b2d66d4de182ce6f202e1a"
-      ],
-      "idList": "67a66e7c1024c1826436692e",
-      "idMemberCreator": "55fb3056ec59d99c2d8ed403",
-      "idMembers": [
-        "55fb3056ec59d99c2d8ed403"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 4808,
-      "idAttachmentCover": null,
-      "labels": [
-        {
-          "id": "67b2d66d4de182ce6f202e1a",
-          "idBoard": "67a665b882bc50c564e029f7",
-          "idOrganization": "67a6658467c6571ab30729d1",
-          "name": "ROTINA",
-          "nodeId": "ari:cloud:trello::label/workspace/67a6658467c6571ab30729d1/67b2d66d4de182ce6f202e1a",
-          "color": "blue",
-          "uses": 1837
-        }
-      ],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manualCoverAttachment": false,
-      "name": "Distribuição Mailing",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/698ec4d6584a0dc16fabc716",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 140737501151232,
-      "recurrenceRule": null,
-      "shortLink": "YBtnCA5R",
-      "shortUrl": "https://trello.com/c/YBtnCA5R",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": false,
-      "url": "https://trello.com/c/YBtnCA5R/4808-distribui%C3%A7%C3%A3o-mailing",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "yPosition": 0.5,
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
-      "id": "698ec4dea3c6cbb7b7140655",
-      "address": null,
-      "agent": {
-        "name": null,
-        "conversationId": null
-      },
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": false,
-        "due": "2026-02-14T02:59:59.000Z",
-        "dueComplete": false,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": false
-      },
-      "checkItemStates": [],
-      "closed": false,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": false,
-      "dateClosed": null,
-      "dateLastActivity": "2026-02-13T06:29:52.366Z",
-      "dateCompleted": null,
-      "dateViewedByCreator": null,
-      "desc": "",
-      "descData": {
-        "emoji": {}
-      },
-      "due": "2026-02-14T02:59:59.000Z",
-      "dueReminder": null,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [
-        "67b2d66d4de182ce6f202e1a"
-      ],
-      "idList": "67a66e7c1024c1826436692e",
-      "idMemberCreator": "55fb3056ec59d99c2d8ed403",
-      "idMembers": [
-        "55fb3056ec59d99c2d8ed403"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 4809,
-      "idAttachmentCover": null,
-      "labels": [
-        {
-          "id": "67b2d66d4de182ce6f202e1a",
-          "idBoard": "67a665b882bc50c564e029f7",
-          "idOrganization": "67a6658467c6571ab30729d1",
-          "name": "ROTINA",
-          "nodeId": "ari:cloud:trello::label/workspace/67a6658467c6571ab30729d1/67b2d66d4de182ce6f202e1a",
-          "color": "blue",
-          "uses": 1837
-        }
-      ],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manualCoverAttachment": false,
-      "name": "Envio de tarefas - CONCILIG",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/698ec4dea3c6cbb7b7140655",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 140737501167616,
-      "recurrenceRule": null,
-      "shortLink": "HgWgcfio",
-      "shortUrl": "https://trello.com/c/HgWgcfio",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": false,
-      "url": "https://trello.com/c/HgWgcfio/4809-envio-de-tarefas-concilig",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "yPosition": 0.5,
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
       "id": "698ec4e2d3485e5673e671d6",
       "address": null,
       "agent": {
@@ -587301,14 +587035,14 @@
         "subscribed": false
       },
       "checkItemStates": [],
-      "closed": false,
+      "closed": true,
       "coordinates": null,
       "creationMethod": null,
       "creationMethodError": null,
       "creationMethodLoadingStartedAt": null,
       "dueComplete": false,
-      "dateClosed": null,
-      "dateLastActivity": "2026-02-13T06:29:56.022Z",
+      "dateClosed": "2026-02-13T17:45:02.000Z",
+      "dateLastActivity": "2026-02-13T17:45:02.001Z",
       "dateCompleted": null,
       "dateViewedByCreator": null,
       "desc": "",
@@ -587385,139 +587119,6 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/YcNLkeUS/4810-batimento-mailing",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "yPosition": 0.5,
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
-      "id": "698ec4e5da0814aa33e0d6b4",
-      "address": null,
-      "agent": {
-        "name": null,
-        "conversationId": null
-      },
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": false,
-        "due": "2026-02-14T02:59:59.000Z",
-        "dueComplete": false,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": false
-      },
-      "checkItemStates": [],
-      "closed": false,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": false,
-      "dateClosed": null,
-      "dateLastActivity": "2026-02-13T06:29:58.584Z",
-      "dateCompleted": null,
-      "dateViewedByCreator": null,
-      "desc": "",
-      "descData": {
-        "emoji": {}
-      },
-      "due": "2026-02-14T02:59:59.000Z",
-      "dueReminder": null,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [
-        "67b2d66d4de182ce6f202e1a"
-      ],
-      "idList": "67a66e7c1024c1826436692e",
-      "idMemberCreator": "55fb3056ec59d99c2d8ed403",
-      "idMembers": [
-        "55fb3056ec59d99c2d8ed403"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 4811,
-      "idAttachmentCover": null,
-      "labels": [
-        {
-          "id": "67b2d66d4de182ce6f202e1a",
-          "idBoard": "67a665b882bc50c564e029f7",
-          "idOrganization": "67a6658467c6571ab30729d1",
-          "name": "ROTINA",
-          "nodeId": "ari:cloud:trello::label/workspace/67a6658467c6571ab30729d1/67b2d66d4de182ce6f202e1a",
-          "color": "blue",
-          "uses": 1837
-        }
-      ],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manualCoverAttachment": false,
-      "name": "Prévias Escobs - Com Analitico de Pgto",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/698ec4e5da0814aa33e0d6b4",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 140737501200384,
-      "recurrenceRule": null,
-      "shortLink": "AiKhMpvw",
-      "shortUrl": "https://trello.com/c/AiKhMpvw",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": false,
-      "url": "https://trello.com/c/AiKhMpvw/4811-pr%C3%A9vias-escobs-com-analitico-de-pgto",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
@@ -588932,6 +588533,405 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/3juqct1E/2304-limpeza-de-telefones-nhot-do-cobransaas",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
+      "id": "698ec4d6584a0dc16fabc716",
+      "address": null,
+      "agent": {
+        "name": null,
+        "conversationId": null
+      },
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": "2026-02-14T02:59:59.000Z",
+        "dueComplete": true,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": true,
+      "dateClosed": null,
+      "dateLastActivity": "2026-02-13T18:16:17.606Z",
+      "dateCompleted": "2026-02-13T18:16:17.606Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": "2026-02-14T02:59:59.000Z",
+      "dueReminder": null,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [
+        "67b2d66d4de182ce6f202e1a"
+      ],
+      "idList": "67a66808d05515aeeaf4fd7d",
+      "idMemberCreator": "55fb3056ec59d99c2d8ed403",
+      "idMembers": [
+        "55fb3056ec59d99c2d8ed403"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 4808,
+      "idAttachmentCover": null,
+      "labels": [
+        {
+          "id": "67b2d66d4de182ce6f202e1a",
+          "idBoard": "67a665b882bc50c564e029f7",
+          "idOrganization": "67a6658467c6571ab30729d1",
+          "name": "ROTINA",
+          "nodeId": "ari:cloud:trello::label/workspace/67a6658467c6571ab30729d1/67b2d66d4de182ce6f202e1a",
+          "color": "blue",
+          "uses": 1837
+        }
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Distribuição Mailing",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/698ec4d6584a0dc16fabc716",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 140737486110720,
+      "recurrenceRule": null,
+      "shortLink": "YBtnCA5R",
+      "shortUrl": "https://trello.com/c/YBtnCA5R",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/YBtnCA5R/4808-distribui%C3%A7%C3%A3o-mailing",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
+      "id": "698ec4dea3c6cbb7b7140655",
+      "address": null,
+      "agent": {
+        "name": null,
+        "conversationId": null
+      },
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": "2026-02-14T02:59:59.000Z",
+        "dueComplete": true,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": true,
+      "dateClosed": null,
+      "dateLastActivity": "2026-02-13T18:16:06.037Z",
+      "dateCompleted": "2026-02-13T18:16:06.036Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": "2026-02-14T02:59:59.000Z",
+      "dueReminder": null,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [
+        "67b2d66d4de182ce6f202e1a"
+      ],
+      "idList": "67a66808d05515aeeaf4fd7d",
+      "idMemberCreator": "55fb3056ec59d99c2d8ed403",
+      "idMembers": [
+        "55fb3056ec59d99c2d8ed403"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 4809,
+      "idAttachmentCover": null,
+      "labels": [
+        {
+          "id": "67b2d66d4de182ce6f202e1a",
+          "idBoard": "67a665b882bc50c564e029f7",
+          "idOrganization": "67a6658467c6571ab30729d1",
+          "name": "ROTINA",
+          "nodeId": "ari:cloud:trello::label/workspace/67a6658467c6571ab30729d1/67b2d66d4de182ce6f202e1a",
+          "color": "blue",
+          "uses": 1837
+        }
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Envio de tarefas - CONCILIG",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/698ec4dea3c6cbb7b7140655",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 140737486127104,
+      "recurrenceRule": null,
+      "shortLink": "HgWgcfio",
+      "shortUrl": "https://trello.com/c/HgWgcfio",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/HgWgcfio/4809-envio-de-tarefas-concilig",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
+      "id": "698ec4e5da0814aa33e0d6b4",
+      "address": null,
+      "agent": {
+        "name": null,
+        "conversationId": null
+      },
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": "2026-02-14T02:59:59.000Z",
+        "dueComplete": true,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": true,
+      "dateClosed": null,
+      "dateLastActivity": "2026-02-13T17:44:58.050Z",
+      "dateCompleted": "2026-02-13T17:44:58.048Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": "2026-02-14T02:59:59.000Z",
+      "dueReminder": null,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [
+        "67b2d66d4de182ce6f202e1a"
+      ],
+      "idList": "67a66808d05515aeeaf4fd7d",
+      "idMemberCreator": "55fb3056ec59d99c2d8ed403",
+      "idMembers": [
+        "55fb3056ec59d99c2d8ed403"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 4811,
+      "idAttachmentCover": null,
+      "labels": [
+        {
+          "id": "67b2d66d4de182ce6f202e1a",
+          "idBoard": "67a665b882bc50c564e029f7",
+          "idOrganization": "67a6658467c6571ab30729d1",
+          "name": "ROTINA",
+          "nodeId": "ari:cloud:trello::label/workspace/67a6658467c6571ab30729d1/67b2d66d4de182ce6f202e1a",
+          "color": "blue",
+          "uses": 1837
+        }
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Prévias Escobs - Com Analitico de Pgto",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/698ec4e5da0814aa33e0d6b4",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 140737486143488,
+      "recurrenceRule": null,
+      "shortLink": "AiKhMpvw",
+      "shortUrl": "https://trello.com/c/AiKhMpvw",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/AiKhMpvw/4811-pr%C3%A9vias-escobs-com-analitico-de-pgto",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
