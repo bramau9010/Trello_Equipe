@@ -275,7 +275,7 @@
   "shortUrl": "https://trello.com/b/XTxVUMEy",
   "idTags": [],
   "datePluginDisable": null,
-  "ixUpdate": "269971",
+  "ixUpdate": "269972",
   "templateGallery": null,
   "enterpriseOwned": false,
   "idBoardSource": null,
@@ -618202,9 +618202,9 @@
     },
     {
       "id": "688a09cff106867765efa4e5",
-      "activityBlocked": false,
-      "avatarHash": "917d992e0e6fc868eee18e60bad4ebef",
-      "avatarUrl": "https://trello-members.s3.amazonaws.com/688a09cff106867765efa4e5/917d992e0e6fc868eee18e60bad4ebef",
+      "activityBlocked": true,
+      "avatarHash": "48ce85a7972ef77e0461e0035b08738f",
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/688a09cff106867765efa4e5/48ce85a7972ef77e0461e0035b08738f",
       "fullName": "Carlos Alberto Silva",
       "idMemberReferrer": null,
       "initials": "CS",
@@ -618312,7 +618312,7 @@
       "idMember": "688a09cff106867765efa4e5",
       "memberType": "normal",
       "unconfirmed": false,
-      "deactivated": false
+      "deactivated": true
     }
   ]
 }
