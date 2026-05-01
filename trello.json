@@ -43,7 +43,7 @@
         "status": "warn",
         "disableAt": 5000,
         "warnAt": 4000,
-        "count": 4072
+        "count": 4073
       },
       "openPerList": {
         "status": "ok",
@@ -270,12 +270,12 @@
     "black_light": ""
   },
   "powerUps": [],
-  "dateLastActivity": "2026-04-28T06:34:43.869Z",
+  "dateLastActivity": "2026-05-01T06:34:44.692Z",
   "dateLastView": "2026-03-02T20:06:53.577Z",
   "shortUrl": "https://trello.com/b/XTxVUMEy",
   "idTags": [],
   "datePluginDisable": null,
-  "ixUpdate": "270640",
+  "ixUpdate": "270645",
   "templateGallery": null,
   "enterpriseOwned": false,
   "idBoardSource": null,
@@ -597868,6 +597868,127 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/4kforbgs/4950-remunera%C3%A7%C3%A3o-pr%C3%A9vias-escobs",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
+      "id": "69f44984f481d49fc601325d",
+      "address": null,
+      "agent": {
+        "name": null,
+        "conversationId": null
+      },
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": false,
+      "dateClosed": null,
+      "dateLastActivity": "2026-05-01T06:34:44.692Z",
+      "dateCompleted": null,
+      "dateViewedByCreator": null,
+      "desc": "https://di-pnb-dev-spark3-master0.di-pnb-h.tyoz-sbgs.cloudera.site/di-pnb-dev-spark3/cdp-proxy/zeppelin/#/notebook/2M21T6867",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67a66e7c1024c1826436692e",
+      "idMemberCreator": "619e31ab0f5999052dc01a9f",
+      "idMembers": [
+        "619e31ab0f5999052dc01a9f"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 4951,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Remuneração Prévias Escobs",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/69f44984f481d49fc601325d",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 140737503100928,
+      "recurrenceRule": null,
+      "shortLink": "tn6RxLem",
+      "shortUrl": "https://trello.com/c/tn6RxLem",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/tn6RxLem/4951-remunera%C3%A7%C3%A3o-pr%C3%A9vias-escobs",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
