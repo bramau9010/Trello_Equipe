@@ -10,6 +10,7 @@
   "creationMethod": null,
   "creationMethodError": null,
   "creationMethodLoadingStartedAt": null,
+  "creationMethodLoadingPhase": null,
   "dateClosed": null,
   "idOrganization": "67a6658467c6571ab30729d1",
   "idEnterprise": null,
