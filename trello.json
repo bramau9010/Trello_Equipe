@@ -22237,6 +22237,125 @@
       "mirrorSourceNodeId": null
     },
     {
+      "id": "681314a18496bd6d4b658409",
+      "address": null,
+      "agent": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": "2025-05-01T06:28:50.000Z",
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": true,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": false,
+      "dateClosed": "2025-05-05T12:48:27.590Z",
+      "dateLastActivity": "2025-05-05T12:48:27.592Z",
+      "dateCompleted": null,
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": "2025-05-01T06:28:50.000Z",
+      "dueReminder": null,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67a66e7c1024c1826436692e",
+      "idMemberCreator": "66be015d16ec881bfcb4df1c",
+      "idMembers": [
+        "55fb3056ec59d99c2d8ed403"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 2357,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manifest": null,
+      "manualCoverAttachment": false,
+      "name": "Atualizar Performance Estratégia",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/681314a18496bd6d4b658409",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 18329600,
+      "recurrenceRule": null,
+      "shortLink": "Urzh8iAV",
+      "shortUrl": "https://trello.com/c/Urzh8iAV",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/Urzh8iAV/2357-atualizar-performance-estrat%C3%A9gia",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
       "id": "6813146012a19a09edbab433",
       "address": null,
       "agent": null,
@@ -22340,125 +22459,6 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/nNSa5Pv5/2355-executar-processo-de-distribui%C3%A7%C3%A3o-do-mailing",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "yPosition": 0.5,
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
-      "id": "681314a18496bd6d4b658409",
-      "address": null,
-      "agent": null,
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": false,
-        "due": "2025-05-01T06:28:50.000Z",
-        "dueComplete": false,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": false
-      },
-      "checkItemStates": [],
-      "closed": true,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": false,
-      "dateClosed": "2025-05-05T12:48:27.590Z",
-      "dateLastActivity": "2025-05-05T12:48:27.592Z",
-      "dateCompleted": null,
-      "dateViewedByCreator": null,
-      "desc": "",
-      "descData": {
-        "emoji": {}
-      },
-      "due": "2025-05-01T06:28:50.000Z",
-      "dueReminder": null,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [],
-      "idList": "67a66e7c1024c1826436692e",
-      "idMemberCreator": "66be015d16ec881bfcb4df1c",
-      "idMembers": [
-        "55fb3056ec59d99c2d8ed403"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 2357,
-      "idAttachmentCover": null,
-      "labels": [],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manifest": null,
-      "manualCoverAttachment": false,
-      "name": "Atualizar Performance Estratégia",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/681314a18496bd6d4b658409",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 18329600,
-      "recurrenceRule": null,
-      "shortLink": "Urzh8iAV",
-      "shortUrl": "https://trello.com/c/Urzh8iAV",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": false,
-      "url": "https://trello.com/c/Urzh8iAV/2357-atualizar-performance-estrat%C3%A9gia",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
@@ -62028,137 +62028,6 @@
       "mirrorSourceNodeId": null
     },
     {
-      "id": "688b0d65583d104e56049897",
-      "address": null,
-      "agent": null,
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": false,
-        "due": "2025-07-31T06:30:00.000Z",
-        "dueComplete": false,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": false
-      },
-      "checkItemStates": [],
-      "closed": true,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": false,
-      "dateClosed": "2025-07-31T19:38:06.392Z",
-      "dateLastActivity": "2025-07-31T19:38:06.394Z",
-      "dateCompleted": null,
-      "dateViewedByCreator": null,
-      "desc": "",
-      "descData": {
-        "emoji": {}
-      },
-      "due": "2025-07-31T06:30:00.000Z",
-      "dueReminder": null,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [
-        "67b2d66d4de182ce6f202e1a"
-      ],
-      "idList": "67a66e7c1024c1826436692e",
-      "idMemberCreator": "55fb3056ec59d99c2d8ed403",
-      "idMembers": [
-        "55fb3056ec59d99c2d8ed403"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 3489,
-      "idAttachmentCover": null,
-      "labels": [
-        {
-          "id": "67b2d66d4de182ce6f202e1a",
-          "idBoard": "67a665b882bc50c564e029f7",
-          "idOrganization": "67a6658467c6571ab30729d1",
-          "name": "ROTINA",
-          "nodeId": "ari:cloud:trello::label/workspace/67a6658467c6571ab30729d1/67b2d66d4de182ce6f202e1a",
-          "color": "blue",
-          "uses": 1943
-        }
-      ],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manifest": null,
-      "manualCoverAttachment": false,
-      "name": "Atualizar Efetividade por Operador",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/688b0d65583d104e56049897",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 31019008,
-      "recurrenceRule": null,
-      "shortLink": "yAXdFlLI",
-      "shortUrl": "https://trello.com/c/yAXdFlLI",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": false,
-      "url": "https://trello.com/c/yAXdFlLI/3489-atualizar-efetividade-por-operador",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "yPosition": 0.5,
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
       "id": "688b0e1002db3a1d81238886",
       "address": null,
       "agent": null,
@@ -62273,6 +62142,137 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/r8h38TyA/3491-rodar-discagem-x-mailing",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
+      "id": "688b0d65583d104e56049897",
+      "address": null,
+      "agent": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": "2025-07-31T06:30:00.000Z",
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": true,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": false,
+      "dateClosed": "2025-07-31T19:38:06.392Z",
+      "dateLastActivity": "2025-07-31T19:38:06.394Z",
+      "dateCompleted": null,
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": "2025-07-31T06:30:00.000Z",
+      "dueReminder": null,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [
+        "67b2d66d4de182ce6f202e1a"
+      ],
+      "idList": "67a66e7c1024c1826436692e",
+      "idMemberCreator": "55fb3056ec59d99c2d8ed403",
+      "idMembers": [
+        "55fb3056ec59d99c2d8ed403"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 3489,
+      "idAttachmentCover": null,
+      "labels": [
+        {
+          "id": "67b2d66d4de182ce6f202e1a",
+          "idBoard": "67a665b882bc50c564e029f7",
+          "idOrganization": "67a6658467c6571ab30729d1",
+          "name": "ROTINA",
+          "nodeId": "ari:cloud:trello::label/workspace/67a6658467c6571ab30729d1/67b2d66d4de182ce6f202e1a",
+          "color": "blue",
+          "uses": 1943
+        }
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manifest": null,
+      "manualCoverAttachment": false,
+      "name": "Atualizar Efetividade por Operador",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/688b0d65583d104e56049897",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 31019008,
+      "recurrenceRule": null,
+      "shortLink": "yAXdFlLI",
+      "shortUrl": "https://trello.com/c/yAXdFlLI",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/yAXdFlLI/3489-atualizar-efetividade-por-operador",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
@@ -618924,6 +618924,13 @@
   ],
   "memberships": [
     {
+      "id": "67a66808d6ff9c9e5c6e002b",
+      "idMember": "619e31ab0f5999052dc01a9f",
+      "memberType": "normal",
+      "unconfirmed": false,
+      "deactivated": false
+    },
+    {
       "id": "67a665b882bc50c564e02a1e",
       "idMember": "66be015d16ec881bfcb4df1c",
       "memberType": "admin",
@@ -618957,13 +618964,6 @@
       "memberType": "normal",
       "unconfirmed": false,
       "deactivated": true
-    },
-    {
-      "id": "67a66808d6ff9c9e5c6e002b",
-      "idMember": "619e31ab0f5999052dc01a9f",
-      "memberType": "normal",
-      "unconfirmed": false,
-      "deactivated": false
     }
   ]
 }
