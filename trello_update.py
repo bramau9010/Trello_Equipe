@@ -1,12 +1,12 @@
-###!/usr/bin/env python3
+#!/usr/bin/env python3
 import os
+import time
 import requests
 import json
 from pathlib import Path
 import subprocess
 from datetime import datetime
 
-# Variáveis via env (serão providas pelo GitHub Actions como secrets)
 TRELLO_KEY = os.environ.get("TRELLO_KEY")
 TRELLO_TOKEN = os.environ.get("TRELLO_TOKEN")
 BOARD_ID = os.environ.get("BOARD_ID")
@@ -18,7 +18,11 @@ if not (TRELLO_KEY and TRELLO_TOKEN and BOARD_ID):
 REPO_DIR = Path('.').resolve()
 JSON_FILE = REPO_DIR / "trello.json"
 
-def get_board():
+_RETRYABLE = {429, 500, 502, 503, 504}
+_MAX_RETRIES = 4
+_TIMEOUT = 60  # segundos
+
+def get_board() -> dict:
     url = f"https://api.trello.com/1/boards/{BOARD_ID}"
     params = {
         "key": TRELLO_KEY,
@@ -28,14 +32,27 @@ def get_board():
         "card_fields": "all",
         "fields": "all",
         "members": "all",
-        "labels": "all",       # <-- add this
-        "label_fields": "all"  # <-- optional, ensures full label details
+        "labels": "all",
+        "label_fields": "all",
     }
-    r = requests.get(url, params=params)
-    if r.status_code != 200:
+    for attempt in range(_MAX_RETRIES):
+        try:
+            r = requests.get(url, params=params, timeout=_TIMEOUT)
+        except requests.exceptions.Timeout:
+            wait = 2 ** attempt * 10
+            print(f"Timeout na tentativa {attempt + 1}, aguardando {wait}s…")
+            time.sleep(wait)
+            continue
+        if r.status_code == 200:
+            return r.json()
+        if r.status_code in _RETRYABLE and attempt < _MAX_RETRIES - 1:
+            wait = 2 ** attempt * 10
+            print(f"Erro {r.status_code} na tentativa {attempt + 1}, aguardando {wait}s…")
+            time.sleep(wait)
+            continue
         print(f"Erro ao baixar do Trello: {r.status_code} -> {r.text}")
         r.raise_for_status()
-    return r.json()
+    raise SystemExit("ERRO: todas as tentativas falharam ao contactar a API do Trello")
 
 
 
