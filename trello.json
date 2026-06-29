@@ -44,7 +44,7 @@
         "status": "warn",
         "disableAt": 5000,
         "warnAt": 4000,
-        "count": 4105
+        "count": 4106
       },
       "openPerList": {
         "status": "ok",
@@ -271,12 +271,12 @@
     "black_light": ""
   },
   "powerUps": [],
-  "dateLastActivity": "2026-06-26T06:34:43.740Z",
+  "dateLastActivity": "2026-06-29T06:35:27.624Z",
   "dateLastView": "2026-03-02T20:06:53.577Z",
   "shortUrl": "https://trello.com/b/XTxVUMEy",
   "idTags": [],
   "datePluginDisable": null,
-  "ixUpdate": "270829",
+  "ixUpdate": "270834",
   "templateGallery": null,
   "enterpriseOwned": false,
   "idBoardSource": null,
@@ -592419,6 +592419,125 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/BC1zT4WA/4983-remunera%C3%A7%C3%A3o-pr%C3%A9vias-escobs",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
+      "id": "6a42122d7abb2dd0e85afc3a",
+      "address": null,
+      "agent": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": false,
+      "dateClosed": null,
+      "dateLastActivity": "2026-06-29T06:35:27.624Z",
+      "dateCompleted": null,
+      "dateViewedByCreator": null,
+      "desc": "Frequência: Quinzenal (ou quando for solicitado)\n- Gera base contendo a produção de acordos por loja\n- Acordos gerados via Cobransaas e via Tablet PPN\n- Enviar base para time da Luciana Borher\n- Possivelmente Marcelo queira receber entre os envios quinzenais\n- Link Notebook: https://di-pnb-dev-spark3-master0.di-pnb-h.tyoz-sbgs.cloudera.site/di-pnb-dev-spark3/cdp-proxy/zeppelin/#/notebook/2KU2K3HM4\n- Link da Pasta: G:\\Cobranca\\PLANCOB\\HENRIQUE\\BASE ACORDOS POR LOJA - LU BORHER",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67a66e7c1024c1826436692e",
+      "idMemberCreator": "619e31ab0f5999052dc01a9f",
+      "idMembers": [
+        "619e31ab0f5999052dc01a9f"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 4984,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manifest": null,
+      "manualCoverAttachment": false,
+      "name": "Relatório Base Acordos Loja",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/6a42122d7abb2dd0e85afc3a",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 140737503641600,
+      "recurrenceRule": null,
+      "shortLink": "9wDYYIE9",
+      "shortUrl": "https://trello.com/c/9wDYYIE9",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/9wDYYIE9/4984-relat%C3%B3rio-base-acordos-loja",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
