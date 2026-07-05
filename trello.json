@@ -625895,8 +625895,8 @@
     {
       "id": "5f676938d905a666e2bd03b5",
       "activityBlocked": false,
-      "avatarHash": "47a698bf3ff27f946b8ba97709346963",
-      "avatarUrl": "https://trello-members.s3.amazonaws.com/5f676938d905a666e2bd03b5/47a698bf3ff27f946b8ba97709346963",
+      "avatarHash": "f0be53cf119c52bc11505b40e916275e",
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/5f676938d905a666e2bd03b5/f0be53cf119c52bc11505b40e916275e",
       "fullName": "Brayan Mauricio Rodríguez Garzónn",
       "idMemberReferrer": null,
       "initials": "BG",
@@ -625979,6 +625979,13 @@
   ],
   "memberships": [
     {
+      "id": "67a66808d6ff9c9e5c6e002b",
+      "idMember": "619e31ab0f5999052dc01a9f",
+      "memberType": "normal",
+      "unconfirmed": false,
+      "deactivated": false
+    },
+    {
       "id": "67a665b882bc50c564e02a1e",
       "idMember": "66be015d16ec881bfcb4df1c",
       "memberType": "admin",
@@ -626012,13 +626019,6 @@
       "memberType": "normal",
       "unconfirmed": false,
       "deactivated": true
-    },
-    {
-      "id": "67a66808d6ff9c9e5c6e002b",
-      "idMember": "619e31ab0f5999052dc01a9f",
-      "memberType": "normal",
-      "unconfirmed": false,
-      "deactivated": false
     }
   ]
 }
