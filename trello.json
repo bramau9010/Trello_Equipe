@@ -44,7 +44,7 @@
         "status": "warn",
         "disableAt": 5000,
         "warnAt": 4000,
-        "count": 4112
+        "count": 4113
       },
       "openPerList": {
         "status": "ok",
@@ -271,12 +271,12 @@
     "black_light": ""
   },
   "powerUps": [],
-  "dateLastActivity": "2026-07-07T06:34:47.678Z",
+  "dateLastActivity": "2026-07-10T06:34:41.358Z",
   "dateLastView": "2026-03-02T20:06:53.577Z",
   "shortUrl": "https://trello.com/b/XTxVUMEy",
   "idTags": [],
   "datePluginDisable": null,
-  "ixUpdate": "270870",
+  "ixUpdate": "270875",
   "templateGallery": null,
   "enterpriseOwned": false,
   "idBoardSource": null,
@@ -22419,6 +22419,126 @@
       "mirrorSourceNodeId": null
     },
     {
+      "id": "681314a18496bd6d4b658409",
+      "address": null,
+      "agent": null,
+      "aiMetadata": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": "2025-05-01T06:28:50.000Z",
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": true,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": false,
+      "dateClosed": "2025-05-05T12:48:27.590Z",
+      "dateLastActivity": "2025-05-05T12:48:27.592Z",
+      "dateCompleted": null,
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": "2025-05-01T06:28:50.000Z",
+      "dueReminder": null,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67a66e7c1024c1826436692e",
+      "idMemberCreator": "66be015d16ec881bfcb4df1c",
+      "idMembers": [
+        "55fb3056ec59d99c2d8ed403"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 2357,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manifest": null,
+      "manualCoverAttachment": false,
+      "name": "Atualizar Performance Estratégia",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/681314a18496bd6d4b658409",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 18329600,
+      "recurrenceRule": null,
+      "shortLink": "Urzh8iAV",
+      "shortUrl": "https://trello.com/c/Urzh8iAV",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/Urzh8iAV/2357-atualizar-performance-estrat%C3%A9gia",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
       "id": "6813146012a19a09edbab433",
       "address": null,
       "agent": null,
@@ -22523,126 +22643,6 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/nNSa5Pv5/2355-executar-processo-de-distribui%C3%A7%C3%A3o-do-mailing",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "yPosition": 0.5,
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
-      "id": "681314a18496bd6d4b658409",
-      "address": null,
-      "agent": null,
-      "aiMetadata": null,
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": false,
-        "due": "2025-05-01T06:28:50.000Z",
-        "dueComplete": false,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": false
-      },
-      "checkItemStates": [],
-      "closed": true,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": false,
-      "dateClosed": "2025-05-05T12:48:27.590Z",
-      "dateLastActivity": "2025-05-05T12:48:27.592Z",
-      "dateCompleted": null,
-      "dateViewedByCreator": null,
-      "desc": "",
-      "descData": {
-        "emoji": {}
-      },
-      "due": "2025-05-01T06:28:50.000Z",
-      "dueReminder": null,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [],
-      "idList": "67a66e7c1024c1826436692e",
-      "idMemberCreator": "66be015d16ec881bfcb4df1c",
-      "idMembers": [
-        "55fb3056ec59d99c2d8ed403"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 2357,
-      "idAttachmentCover": null,
-      "labels": [],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manifest": null,
-      "manualCoverAttachment": false,
-      "name": "Atualizar Performance Estratégia",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/681314a18496bd6d4b658409",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 18329600,
-      "recurrenceRule": null,
-      "shortLink": "Urzh8iAV",
-      "shortUrl": "https://trello.com/c/Urzh8iAV",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": false,
-      "url": "https://trello.com/c/Urzh8iAV/2357-atualizar-performance-estrat%C3%A9gia",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
@@ -62519,138 +62519,6 @@
       "mirrorSourceNodeId": null
     },
     {
-      "id": "688b0d65583d104e56049897",
-      "address": null,
-      "agent": null,
-      "aiMetadata": null,
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": false,
-        "due": "2025-07-31T06:30:00.000Z",
-        "dueComplete": false,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": false
-      },
-      "checkItemStates": [],
-      "closed": true,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": false,
-      "dateClosed": "2025-07-31T19:38:06.392Z",
-      "dateLastActivity": "2025-07-31T19:38:06.394Z",
-      "dateCompleted": null,
-      "dateViewedByCreator": null,
-      "desc": "",
-      "descData": {
-        "emoji": {}
-      },
-      "due": "2025-07-31T06:30:00.000Z",
-      "dueReminder": null,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [
-        "67b2d66d4de182ce6f202e1a"
-      ],
-      "idList": "67a66e7c1024c1826436692e",
-      "idMemberCreator": "55fb3056ec59d99c2d8ed403",
-      "idMembers": [
-        "55fb3056ec59d99c2d8ed403"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 3489,
-      "idAttachmentCover": null,
-      "labels": [
-        {
-          "id": "67b2d66d4de182ce6f202e1a",
-          "idBoard": "67a665b882bc50c564e029f7",
-          "idOrganization": "67a6658467c6571ab30729d1",
-          "name": "ROTINA",
-          "nodeId": "ari:cloud:trello::label/workspace/67a6658467c6571ab30729d1/67b2d66d4de182ce6f202e1a",
-          "color": "blue",
-          "uses": 1948
-        }
-      ],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manifest": null,
-      "manualCoverAttachment": false,
-      "name": "Atualizar Efetividade por Operador",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/688b0d65583d104e56049897",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 31019008,
-      "recurrenceRule": null,
-      "shortLink": "yAXdFlLI",
-      "shortUrl": "https://trello.com/c/yAXdFlLI",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": false,
-      "url": "https://trello.com/c/yAXdFlLI/3489-atualizar-efetividade-por-operador",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "yPosition": 0.5,
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
       "id": "688b0e1002db3a1d81238886",
       "address": null,
       "agent": null,
@@ -62766,6 +62634,138 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/r8h38TyA/3491-rodar-discagem-x-mailing",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
+      "id": "688b0d65583d104e56049897",
+      "address": null,
+      "agent": null,
+      "aiMetadata": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": "2025-07-31T06:30:00.000Z",
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": true,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": false,
+      "dateClosed": "2025-07-31T19:38:06.392Z",
+      "dateLastActivity": "2025-07-31T19:38:06.394Z",
+      "dateCompleted": null,
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": "2025-07-31T06:30:00.000Z",
+      "dueReminder": null,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [
+        "67b2d66d4de182ce6f202e1a"
+      ],
+      "idList": "67a66e7c1024c1826436692e",
+      "idMemberCreator": "55fb3056ec59d99c2d8ed403",
+      "idMembers": [
+        "55fb3056ec59d99c2d8ed403"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 3489,
+      "idAttachmentCover": null,
+      "labels": [
+        {
+          "id": "67b2d66d4de182ce6f202e1a",
+          "idBoard": "67a665b882bc50c564e029f7",
+          "idOrganization": "67a6658467c6571ab30729d1",
+          "name": "ROTINA",
+          "nodeId": "ari:cloud:trello::label/workspace/67a6658467c6571ab30729d1/67b2d66d4de182ce6f202e1a",
+          "color": "blue",
+          "uses": 1948
+        }
+      ],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manifest": null,
+      "manualCoverAttachment": false,
+      "name": "Atualizar Efetividade por Operador",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/688b0d65583d104e56049897",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 31019008,
+      "recurrenceRule": null,
+      "shortLink": "yAXdFlLI",
+      "shortUrl": "https://trello.com/c/yAXdFlLI",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/yAXdFlLI/3489-atualizar-efetividade-por-operador",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
@@ -63180,6 +63180,126 @@
       "mirrorSourceNodeId": null
     },
     {
+      "id": "688bd5948a23c34ee1859a71",
+      "address": null,
+      "agent": null,
+      "aiMetadata": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": true
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": false,
+      "dateClosed": null,
+      "dateLastActivity": "2025-08-05T12:17:17.204Z",
+      "dateCompleted": null,
+      "dateViewedByCreator": null,
+      "desc": "Brayan e Henrique\n\nPreciso que entendam o fluxo e façamos checagens mensais de integridade da carteira em cobrança entre sistemas.\n\nA pergunta é: tudo que deveria estar em atraso e sendo cobrado está sendo feito????? Montem um extrato simples e vamos fazer mensalmente.\n\nQQ duvida falamos............põe no Trello, no Bello, no Feio, no Belo Horizonte,....mas vamos fazer ok.\n\n**Demanda do Gustavo/Glauco. Por favor me passem uma estimativa de data, dado as demandas.**",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67a66e7c1024c1826436692e",
+      "idMemberCreator": "5f676938d905a666e2bd03b5",
+      "idMembers": [
+        "5f676938d905a666e2bd03b5"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 3505,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manifest": null,
+      "manualCoverAttachment": false,
+      "name": "Barrer destinação no cobranças",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/688bd5948a23c34ee1859a71",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 31150080,
+      "recurrenceRule": null,
+      "shortLink": "WJaQNVvq",
+      "shortUrl": "https://trello.com/c/WJaQNVvq",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": true,
+      "url": "https://trello.com/c/WJaQNVvq/3505-barrer-destina%C3%A7%C3%A3o-no-cobran%C3%A7as",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
       "id": "688b12ab5302e05eceaf93be",
       "address": null,
       "agent": null,
@@ -63295,126 +63415,6 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/7cab4i7t/3497-anal%C3%ADtico-de-pagamentos",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "yPosition": 0.5,
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
-      "id": "688bd5948a23c34ee1859a71",
-      "address": null,
-      "agent": null,
-      "aiMetadata": null,
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": true,
-        "due": null,
-        "dueComplete": false,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": true
-      },
-      "checkItemStates": [],
-      "closed": false,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": false,
-      "dateClosed": null,
-      "dateLastActivity": "2025-08-05T12:17:17.204Z",
-      "dateCompleted": null,
-      "dateViewedByCreator": null,
-      "desc": "Brayan e Henrique\n\nPreciso que entendam o fluxo e façamos checagens mensais de integridade da carteira em cobrança entre sistemas.\n\nA pergunta é: tudo que deveria estar em atraso e sendo cobrado está sendo feito????? Montem um extrato simples e vamos fazer mensalmente.\n\nQQ duvida falamos............põe no Trello, no Bello, no Feio, no Belo Horizonte,....mas vamos fazer ok.\n\n**Demanda do Gustavo/Glauco. Por favor me passem uma estimativa de data, dado as demandas.**",
-      "descData": {
-        "emoji": {}
-      },
-      "due": null,
-      "dueReminder": null,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [],
-      "idList": "67a66e7c1024c1826436692e",
-      "idMemberCreator": "5f676938d905a666e2bd03b5",
-      "idMembers": [
-        "5f676938d905a666e2bd03b5"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 3505,
-      "idAttachmentCover": null,
-      "labels": [],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manifest": null,
-      "manualCoverAttachment": false,
-      "name": "Barrer destinação no cobranças",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/688bd5948a23c34ee1859a71",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 31150080,
-      "recurrenceRule": null,
-      "shortLink": "WJaQNVvq",
-      "shortUrl": "https://trello.com/c/WJaQNVvq",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": true,
-      "url": "https://trello.com/c/WJaQNVvq/3505-barrer-destina%C3%A7%C3%A3o-no-cobran%C3%A7as",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
@@ -66182,127 +66182,6 @@
       "mirrorSourceNodeId": null
     },
     {
-      "id": "68a48e2aa32f47cab96371f8",
-      "address": null,
-      "agent": null,
-      "aiMetadata": null,
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": true,
-        "due": "2025-08-20T16:00:00.000Z",
-        "dueComplete": true,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": true
-      },
-      "checkItemStates": [],
-      "closed": true,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": true,
-      "dateClosed": "2025-08-28T17:21:04.645Z",
-      "dateLastActivity": "2025-08-28T17:21:04.646Z",
-      "dateCompleted": "2025-08-20T20:25:36.141Z",
-      "dateViewedByCreator": null,
-      "desc": "A ideaia é exoplicar para um cara de controles aqui na Pefisa, não precisa entrar em detalhes, mas pegar a lógica e grandes etapas",
-      "descData": {
-        "emoji": {}
-      },
-      "due": "2025-08-20T16:00:00.000Z",
-      "dueReminder": 1440,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [],
-      "idList": "67a66e48dbf94bdea5c4bc80",
-      "idMemberCreator": "5f676938d905a666e2bd03b5",
-      "idMembers": [
-        "66be015d16ec881bfcb4df1c",
-        "5f676938d905a666e2bd03b5"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 3757,
-      "idAttachmentCover": null,
-      "labels": [],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manifest": null,
-      "manualCoverAttachment": false,
-      "name": "material explicativo, bem simples sobre nosso processo de comisionamento",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/68a48e2aa32f47cab96371f8",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 6918144,
-      "recurrenceRule": null,
-      "shortLink": "hWr8gg5x",
-      "shortUrl": "https://trello.com/c/hWr8gg5x",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": true,
-      "url": "https://trello.com/c/hWr8gg5x/3757-material-explicativo-bem-simples-sobre-nosso-processo-de-comisionamento",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "yPosition": 0.5,
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
       "id": "68b202403170e2eaee49b726",
       "address": null,
       "agent": null,
@@ -66419,6 +66298,127 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/qEHeA8i0/3888-validar-valores-da-previas-escobs-com-pbi-de-recebimento-carteira",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
+      "id": "68a48e2aa32f47cab96371f8",
+      "address": null,
+      "agent": null,
+      "aiMetadata": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": "2025-08-20T16:00:00.000Z",
+        "dueComplete": true,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": true
+      },
+      "checkItemStates": [],
+      "closed": true,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": true,
+      "dateClosed": "2025-08-28T17:21:04.645Z",
+      "dateLastActivity": "2025-08-28T17:21:04.646Z",
+      "dateCompleted": "2025-08-20T20:25:36.141Z",
+      "dateViewedByCreator": null,
+      "desc": "A ideaia é exoplicar para um cara de controles aqui na Pefisa, não precisa entrar em detalhes, mas pegar a lógica e grandes etapas",
+      "descData": {
+        "emoji": {}
+      },
+      "due": "2025-08-20T16:00:00.000Z",
+      "dueReminder": 1440,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67a66e48dbf94bdea5c4bc80",
+      "idMemberCreator": "5f676938d905a666e2bd03b5",
+      "idMembers": [
+        "66be015d16ec881bfcb4df1c",
+        "5f676938d905a666e2bd03b5"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 3757,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manifest": null,
+      "manualCoverAttachment": false,
+      "name": "material explicativo, bem simples sobre nosso processo de comisionamento",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/68a48e2aa32f47cab96371f8",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 6918144,
+      "recurrenceRule": null,
+      "shortLink": "hWr8gg5x",
+      "shortUrl": "https://trello.com/c/hWr8gg5x",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": true,
+      "url": "https://trello.com/c/hWr8gg5x/3757-material-explicativo-bem-simples-sobre-nosso-processo-de-comisionamento",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
@@ -315821,126 +315821,6 @@
       "mirrorSourceNodeId": null
     },
     {
-      "id": "688758e924b91214e752672a",
-      "address": null,
-      "agent": null,
-      "aiMetadata": null,
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 2,
-        "description": true,
-        "due": null,
-        "dueComplete": true,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": true
-      },
-      "checkItemStates": [],
-      "closed": true,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": true,
-      "dateClosed": "2025-08-28T17:20:18.928Z",
-      "dateLastActivity": "2025-08-28T17:20:18.931Z",
-      "dateCompleted": "2025-07-31T12:14:54.280Z",
-      "dateViewedByCreator": null,
-      "desc": "Começar a enviar as marcaçoes de clientes com EP em atraso, através da coluna EP das listas;\n\n‌\n\n1. Estudar o envio de Lucas\n2. Marcar os EP com suas diferentes marcações\n\n‌\n\nColoco aqui o email de Lucas enviado na sexta feira ;\n\nConforme mencionado na nossa última conversa, estou disponibilizando um notebook com um script que seleciona contratos de empréstimo em atraso e adiciona as marcações de segmentação, além de alguns outros dados a mais.\n\nLink do notebook:\n[https://di-pnb-dev-spark3-master0.di-pnb-h.tyoz-sbgs.cloudera.site/di-pnb-dev-spark3/cdp-proxy/zeppelin/#/notebook/2KZ3WUBC5](https://di-pnb-dev-spark3-master0.di-pnb-h.tyoz-sbgs.cloudera.site/di-pnb-dev-spark3/cdp-proxy/zeppelin/#/notebook/2KZ3WUBC5 \"‌\")\nCaminho do notebook:\n01\\_migracao\\_gcp/work_riscos/modelos/users/Lucas Arraes/Cobrancas/Segmentacao SCR/Motor Segmentação EP 5a30/Envio/Motor de segmentação EP-SCR v1\n\nSintam-se à vontade para simplificar o processo, removendo as colunas que não forem necessárias para quaisquer análises ou processos seus. Também estou colocando em anexo um dicionário de dados para a base contendo as variáveis da Quod. A base em si está disponível na tabela abaixo:",
-      "descData": {
-        "emoji": {}
-      },
-      "due": null,
-      "dueReminder": null,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [],
-      "idList": "67a66e48dbf94bdea5c4bc80",
-      "idMemberCreator": "5f676938d905a666e2bd03b5",
-      "idMembers": [
-        "66be015d16ec881bfcb4df1c"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 3444,
-      "idAttachmentCover": null,
-      "labels": [],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manifest": null,
-      "manualCoverAttachment": false,
-      "name": "Implantar segmentação EP",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/688758e924b91214e752672a",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 29339648,
-      "recurrenceRule": null,
-      "shortLink": "YcQpqO2g",
-      "shortUrl": "https://trello.com/c/YcQpqO2g",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": true,
-      "url": "https://trello.com/c/YcQpqO2g/3444-implantar-segmenta%C3%A7%C3%A3o-ep",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "yPosition": 0.5,
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
       "id": "68a8614bbc1acdfa2fbfcb36",
       "address": null,
       "agent": null,
@@ -316044,6 +315924,126 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/kIiWBC4P/3805-base-de-saldos-alto-real-principal-desconto-v11-50reais-trazendo-produto-para-estudo-de-carta",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
+      "id": "688758e924b91214e752672a",
+      "address": null,
+      "agent": null,
+      "aiMetadata": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 2,
+        "description": true,
+        "due": null,
+        "dueComplete": true,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": true
+      },
+      "checkItemStates": [],
+      "closed": true,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": true,
+      "dateClosed": "2025-08-28T17:20:18.928Z",
+      "dateLastActivity": "2025-08-28T17:20:18.931Z",
+      "dateCompleted": "2025-07-31T12:14:54.280Z",
+      "dateViewedByCreator": null,
+      "desc": "Começar a enviar as marcaçoes de clientes com EP em atraso, através da coluna EP das listas;\n\n‌\n\n1. Estudar o envio de Lucas\n2. Marcar os EP com suas diferentes marcações\n\n‌\n\nColoco aqui o email de Lucas enviado na sexta feira ;\n\nConforme mencionado na nossa última conversa, estou disponibilizando um notebook com um script que seleciona contratos de empréstimo em atraso e adiciona as marcações de segmentação, além de alguns outros dados a mais.\n\nLink do notebook:\n[https://di-pnb-dev-spark3-master0.di-pnb-h.tyoz-sbgs.cloudera.site/di-pnb-dev-spark3/cdp-proxy/zeppelin/#/notebook/2KZ3WUBC5](https://di-pnb-dev-spark3-master0.di-pnb-h.tyoz-sbgs.cloudera.site/di-pnb-dev-spark3/cdp-proxy/zeppelin/#/notebook/2KZ3WUBC5 \"‌\")\nCaminho do notebook:\n01\\_migracao\\_gcp/work_riscos/modelos/users/Lucas Arraes/Cobrancas/Segmentacao SCR/Motor Segmentação EP 5a30/Envio/Motor de segmentação EP-SCR v1\n\nSintam-se à vontade para simplificar o processo, removendo as colunas que não forem necessárias para quaisquer análises ou processos seus. Também estou colocando em anexo um dicionário de dados para a base contendo as variáveis da Quod. A base em si está disponível na tabela abaixo:",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67a66e48dbf94bdea5c4bc80",
+      "idMemberCreator": "5f676938d905a666e2bd03b5",
+      "idMembers": [
+        "66be015d16ec881bfcb4df1c"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 3444,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manifest": null,
+      "manualCoverAttachment": false,
+      "name": "Implantar segmentação EP",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/688758e924b91214e752672a",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 29339648,
+      "recurrenceRule": null,
+      "shortLink": "YcQpqO2g",
+      "shortUrl": "https://trello.com/c/YcQpqO2g",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": true,
+      "url": "https://trello.com/c/YcQpqO2g/3444-implantar-segmenta%C3%A7%C3%A3o-ep",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
@@ -514559,6 +514559,134 @@
       "mirrorSourceNodeId": null
     },
     {
+      "id": "68c87f24c3a66882d48203db",
+      "address": null,
+      "agent": null,
+      "aiMetadata": null,
+      "badges": {
+        "attachments": 1,
+        "fogbugz": "",
+        "checkItems": 5,
+        "checkItemsChecked": 1,
+        "checkItemsEarliestDue": null,
+        "comments": 2,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": true
+      },
+      "checkItemStates": [
+        {
+          "idCheckItem": "68c87ff708b93ab2245d7621",
+          "state": "complete"
+        }
+      ],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": false,
+      "dateClosed": null,
+      "dateLastActivity": "2025-09-23T18:29:45.810Z",
+      "dateCompleted": null,
+      "dateViewedByCreator": null,
+      "desc": "### Descrição Validação Variáveis Pagamento:\n\n‌\n\nA partir da base enviada pelo Danilo\n\nG:\\Cobranca\\PLANCOB\\Brayan Mauricio\\Dados\\VARIAVEIS PEFISA MOTOR\\Variaveis\\_Pefisa\\_Motor_16-09-2025\\Variaveis\\_Pefisa\\_Motor_16-09-2025\n\nRecriar as variáveis de pagaentos a partir dos bancos , usando o conceito do anexo.\n\n‌\n\nTemos a query usada pelo Danilo para criação da base\n\nG:\\Cobranca\\PLANCOB\\Brayan Mauricio\\Dados\\VARIAVEIS PEFISA MOTOR\\Scripts",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [
+        "68c87ff3e5f053a76db58106"
+      ],
+      "idLabels": [],
+      "idList": "67a66e7c1024c1826436692e",
+      "idMemberCreator": "5f676938d905a666e2bd03b5",
+      "idMembers": [
+        "5f676938d905a666e2bd03b5",
+        "55fb3056ec59d99c2d8ed403"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 4058,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manifest": null,
+      "manualCoverAttachment": false,
+      "name": "Validações Motor Cobrança",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/68c87f24c3a66882d48203db",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 140737489944576,
+      "recurrenceRule": null,
+      "shortLink": "KqR61X8s",
+      "shortUrl": "https://trello.com/c/KqR61X8s",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": true,
+      "url": "https://trello.com/c/KqR61X8s/4058-valida%C3%A7%C3%B5es-motor-cobran%C3%A7a",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
       "id": "68c7b7e4810ee41b288b081e",
       "address": null,
       "agent": null,
@@ -514674,134 +514802,6 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/SE7Tfyfi/4052-processar-funil-zepellin",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "yPosition": 0.5,
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
-      "id": "68c87f24c3a66882d48203db",
-      "address": null,
-      "agent": null,
-      "aiMetadata": null,
-      "badges": {
-        "attachments": 1,
-        "fogbugz": "",
-        "checkItems": 5,
-        "checkItemsChecked": 1,
-        "checkItemsEarliestDue": null,
-        "comments": 2,
-        "description": true,
-        "due": null,
-        "dueComplete": false,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": true
-      },
-      "checkItemStates": [
-        {
-          "idCheckItem": "68c87ff708b93ab2245d7621",
-          "state": "complete"
-        }
-      ],
-      "closed": false,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": false,
-      "dateClosed": null,
-      "dateLastActivity": "2025-09-23T18:29:45.810Z",
-      "dateCompleted": null,
-      "dateViewedByCreator": null,
-      "desc": "### Descrição Validação Variáveis Pagamento:\n\n‌\n\nA partir da base enviada pelo Danilo\n\nG:\\Cobranca\\PLANCOB\\Brayan Mauricio\\Dados\\VARIAVEIS PEFISA MOTOR\\Variaveis\\_Pefisa\\_Motor_16-09-2025\\Variaveis\\_Pefisa\\_Motor_16-09-2025\n\nRecriar as variáveis de pagaentos a partir dos bancos , usando o conceito do anexo.\n\n‌\n\nTemos a query usada pelo Danilo para criação da base\n\nG:\\Cobranca\\PLANCOB\\Brayan Mauricio\\Dados\\VARIAVEIS PEFISA MOTOR\\Scripts",
-      "descData": {
-        "emoji": {}
-      },
-      "due": null,
-      "dueReminder": null,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [
-        "68c87ff3e5f053a76db58106"
-      ],
-      "idLabels": [],
-      "idList": "67a66e7c1024c1826436692e",
-      "idMemberCreator": "5f676938d905a666e2bd03b5",
-      "idMembers": [
-        "5f676938d905a666e2bd03b5",
-        "55fb3056ec59d99c2d8ed403"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 4058,
-      "idAttachmentCover": null,
-      "labels": [],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manifest": null,
-      "manualCoverAttachment": false,
-      "name": "Validações Motor Cobrança",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/68c87f24c3a66882d48203db",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 140737489944576,
-      "recurrenceRule": null,
-      "shortLink": "KqR61X8s",
-      "shortUrl": "https://trello.com/c/KqR61X8s",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": true,
-      "url": "https://trello.com/c/KqR61X8s/4058-valida%C3%A7%C3%B5es-motor-cobran%C3%A7a",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
@@ -585950,6 +585950,126 @@
       "mirrorSourceNodeId": null
     },
     {
+      "id": "69a13b02859eda89a8890926",
+      "address": null,
+      "agent": null,
+      "aiMetadata": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": false,
+      "dateClosed": null,
+      "dateLastActivity": "2026-02-27T06:34:43.067Z",
+      "dateCompleted": null,
+      "dateViewedByCreator": null,
+      "desc": "https://di-pnb-dev-spark3-master0.di-pnb-h.tyoz-sbgs.cloudera.site/di-pnb-dev-spark3/cdp-proxy/zeppelin/#/notebook/2M21T6867",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67a66e7c1024c1826436692e",
+      "idMemberCreator": "619e31ab0f5999052dc01a9f",
+      "idMembers": [
+        "619e31ab0f5999052dc01a9f"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 4861,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manifest": null,
+      "manualCoverAttachment": false,
+      "name": "Remuneração Prévias Escobs",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/69a13b02859eda89a8890926",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 140737501790208,
+      "recurrenceRule": null,
+      "shortLink": "7WuMCcIN",
+      "shortUrl": "https://trello.com/c/7WuMCcIN",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/7WuMCcIN/4861-remunera%C3%A7%C3%A3o-pr%C3%A9vias-escobs",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
       "id": "699fe865c93b7192f94c9c3a",
       "address": null,
       "agent": null,
@@ -586065,126 +586185,6 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/3PL39b8U/4855-batimento-mailing",
-      "urlSource": null,
-      "urlSourceText": null,
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "yPosition": 0.5,
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null
-    },
-    {
-      "id": "69a13b02859eda89a8890926",
-      "address": null,
-      "agent": null,
-      "aiMetadata": null,
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": true,
-        "due": null,
-        "dueComplete": false,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": {
-          "trello": {
-            "board": 0,
-            "card": 0
-          }
-        },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": false
-      },
-      "checkItemStates": [],
-      "closed": false,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": false,
-      "dateClosed": null,
-      "dateLastActivity": "2026-02-27T06:34:43.067Z",
-      "dateCompleted": null,
-      "dateViewedByCreator": null,
-      "desc": "https://di-pnb-dev-spark3-master0.di-pnb-h.tyoz-sbgs.cloudera.site/di-pnb-dev-spark3/cdp-proxy/zeppelin/#/notebook/2M21T6867",
-      "descData": {
-        "emoji": {}
-      },
-      "due": null,
-      "dueReminder": null,
-      "email": null,
-      "externalSource": null,
-      "faviconUrl": null,
-      "idBoard": "67a665b882bc50c564e029f7",
-      "idChecklists": [],
-      "idLabels": [],
-      "idList": "67a66e7c1024c1826436692e",
-      "idMemberCreator": "619e31ab0f5999052dc01a9f",
-      "idMembers": [
-        "619e31ab0f5999052dc01a9f"
-      ],
-      "idMembersVoted": [],
-      "idOrganization": "67a6658467c6571ab30729d1",
-      "idShort": 4861,
-      "idAttachmentCover": null,
-      "labels": [],
-      "limits": {
-        "attachments": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 1000,
-            "warnAt": 800
-          }
-        },
-        "checklists": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 500,
-            "warnAt": 400
-          }
-        },
-        "stickers": {
-          "perCard": {
-            "status": "ok",
-            "disableAt": 70,
-            "warnAt": 56
-          }
-        }
-      },
-      "locationName": null,
-      "manifest": null,
-      "manualCoverAttachment": false,
-      "name": "Remuneração Prévias Escobs",
-      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/69a13b02859eda89a8890926",
-      "originalDesc": "",
-      "originalName": "",
-      "pinned": false,
-      "pos": 140737501790208,
-      "recurrenceRule": null,
-      "shortLink": "7WuMCcIN",
-      "shortUrl": "https://trello.com/c/7WuMCcIN",
-      "singleInstrumentationId": null,
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": false,
-      "url": "https://trello.com/c/7WuMCcIN/4861-remunera%C3%A7%C3%A3o-pr%C3%A9vias-escobs",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
@@ -598053,6 +598053,126 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/a1tZgbOD/4990-remunera%C3%A7%C3%A3o-pr%C3%A9vias-escobs",
+      "urlSource": null,
+      "urlSourceText": null,
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "yPosition": 0.5,
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null
+    },
+    {
+      "id": "6a509280341cde9c4a058b5b",
+      "address": null,
+      "agent": null,
+      "aiMetadata": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": false,
+      "dateClosed": null,
+      "dateLastActivity": "2026-07-10T06:34:41.358Z",
+      "dateCompleted": null,
+      "dateViewedByCreator": null,
+      "desc": "https://di-pnb-dev-spark3-master0.di-pnb-h.tyoz-sbgs.cloudera.site/di-pnb-dev-spark3/cdp-proxy/zeppelin/#/notebook/2M21T6867",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": null,
+      "externalSource": null,
+      "faviconUrl": null,
+      "idBoard": "67a665b882bc50c564e029f7",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67a66e7c1024c1826436692e",
+      "idMemberCreator": "619e31ab0f5999052dc01a9f",
+      "idMembers": [
+        "619e31ab0f5999052dc01a9f"
+      ],
+      "idMembersVoted": [],
+      "idOrganization": "67a6658467c6571ab30729d1",
+      "idShort": 4991,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manifest": null,
+      "manualCoverAttachment": false,
+      "name": "Remuneração Prévias Escobs",
+      "nodeId": "ari:cloud:trello::card/workspace/67a6658467c6571ab30729d1/6a509280341cde9c4a058b5b",
+      "originalDesc": "",
+      "originalName": "",
+      "pinned": false,
+      "pos": 140737503756288,
+      "recurrenceRule": null,
+      "shortLink": "ezIQxrm5",
+      "shortUrl": "https://trello.com/c/ezIQxrm5",
+      "singleInstrumentationId": null,
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/ezIQxrm5/4991-remunera%C3%A7%C3%A3o-pr%C3%A9vias-escobs",
       "urlSource": null,
       "urlSourceText": null,
       "cover": {
